@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  border: 2px solid;
+  background-color: #ffa500;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.3;
+  font-size:82.8%;
+  border: none;
+}
+
+h1 {
+  text-align: end;
+  border-bottom: 3px solid #ffc75a;
+  font-size:2.5rem;
+  font-weight:800;  
+}
+
+#container {
+  max-width: 800px;
+  margin: auto;
+  background-color: #FFF8DC;
+  padding: 20px;
+  text-align: justify;
+  margin-bottom: 50px;
+}
+
+p {
+  text-indent: 30px;
+}
+
+
+
+
+h2 {
+width:50%;
+border-top:1px  solid #ffc75a;
+padding-top:15px;
+}
+
+img {
+  width: 20%;
+  float: right;
+  border: 1px solid #ffa500;
+  margin: -40px 25px 25px 25px;
+}
+
+#szoborimg {
+    margin-top: 15px;
+    margin-bottom:20px;
+}
+
+
+#linkawikire {
+    float:right;
+    margin:15px;
+}
